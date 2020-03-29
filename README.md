@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/zxklikar1/Azure%20Integration%20Testing/_apis/build/status/zklikar.pipelines%20-%20cloned%20pipeline?branchName=master)](https://dev.azure.com/zxklikar1/Azure%20Integration%20Testing/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
